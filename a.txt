@@ -1,7 +1,0 @@
-A  我是Master
-B  edit bt master
-C
-D edit by master
-E
-F
-G
